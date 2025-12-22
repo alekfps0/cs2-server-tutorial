@@ -1,0 +1,3 @@
+https://developer.valvesoftware.com/wiki/Counter-Strike_2/Dedicated_Servers
+
+https://steamcommunity.com/dev/managegameservers
