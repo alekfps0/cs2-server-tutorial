@@ -8,4 +8,4 @@ Assista ao tutorial completo no YouTube: [alekfps0](https://www.youtube.com/@ale
 Aulas Práticas: Passo a passo desde a instalação do servidor base até a configuração de plugins avançados.
 
 # Arquivos de Configuração
-CFGs prontas e otimizadas para servidores de treino, mix ou público.
+CFGs prontas e otimizadas para servidores!
