@@ -4,8 +4,8 @@ Este repositório contém todos os arquivos, scripts e materiais de apoio das au
 
 Assista ao tutorial completo no YouTube: [alekfps0](https://www.youtube.com/@alekfps0)
 
-#Conteúdo do Curso
+# Conteúdo do Curso
 Aulas Práticas: Passo a passo desde a instalação do servidor base até a configuração de plugins avançados.
 
-#Arquivos de Configuração
+# Arquivos de Configuração
 CFGs prontas e otimizadas para servidores de treino, mix ou público.
