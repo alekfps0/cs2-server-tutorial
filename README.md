@@ -2,7 +2,7 @@
 
 Este repositório contém todos os arquivos, scripts e materiais de apoio das aulas de criação de servidores de CS2 do canal alekfps0.
 
-Assista ao tutorial completo no YouTube: [alekfps0](https://www.youtube.com/@alekfps0)
+Assista ao tutorial completo no YouTube: [alekfps0](https://www.youtube.com/watch?v=Htj-maMsOMM&list=PL-x0qgVmLDS4z2NoTZ937OgotAw9Kfbc-)
 
 # Conteúdo do Curso
 Aulas Práticas: Passo a passo desde a instalação do servidor base até a configuração de plugins avançados.
