@@ -3,11 +3,11 @@
 
     [Settings]
     MenuType = "screen"            # screen is the default menu, if you don't wanna use t3menu don't even add the shared of it.
-    DefaultVolume = 0.1             # this volume will be set to players who don't have one setted.
+    DefaultVolume = 0.4             # this volume will be set to players who don't have one setted.
     GiveRandomMVP = true            # when a player with no mvp joins the server, a random MVP is assinged to him.
     DisablePlayerDefaultMVP = true  # with this on true the player mvp from steam will be disabled.
     SoundEventFiles = ["soundevents/mvp_alek.vsndevts"]            # VERY IMPORTANT: In order for the sounds to work you need to add the path for soundevent file here.
-    VolumeSettings = [1, 0]
+    VolumeSettings = [100, 80, 60, 40, 20, 0]
 
     [Commands]
     MVPCommands = ["mvp"]        # Opens the MVP Menu
@@ -316,4 +316,5 @@
     Flags = []
 	
 	
+
     
