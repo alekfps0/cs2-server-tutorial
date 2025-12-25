@@ -1,0 +1,319 @@
+
+    # MVP Configuration.
+
+    [Settings]
+    MenuType = "screen"            # screen is the default menu, if you don't wanna use t3menu don't even add the shared of it.
+    DefaultVolume = 0.1             # this volume will be set to players who don't have one setted.
+    GiveRandomMVP = true            # when a player with no mvp joins the server, a random MVP is assinged to him.
+    DisablePlayerDefaultMVP = true  # with this on true the player mvp from steam will be disabled.
+    SoundEventFiles = ["soundevents/mvp_alek.vsndevts"]            # VERY IMPORTANT: In order for the sounds to work you need to add the path for soundevent file here.
+    VolumeSettings = [1, 0]
+
+    [Commands]
+    MVPCommands = ["mvp"]        # Opens the MVP Menu
+    VolumeCommands = ["mvpvol", "vol"]    # Opens the Volume Menu (this is just a separate command)
+
+    [Timer]
+    CenterHtmlDuration = 12.0
+    CenterDuration = 12.0
+    AlertDuration = 12.0
+
+    [MVPSettings."ALEK MVP"."mvp.1"] # 'PUBLIC MVP' is the category which will be shown in the menu. 'mvp.1' is the key which u set the message to in lang folder.
+    MVPName = "TODA PEKA DELA 1"                 # This will be shown in the menu.
+    MVPSound = "MVP_senta1"            # This is the soundevent name. With this the sound will play.
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+
+    [MVPSettings."ALEK MVP"."mvp.2"]
+    MVPName = "TODA PEKA DELA 2"
+    MVPSound = "MVP_senta2"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	[MVPSettings."ALEK MVP"."mvp.3"]
+    MVPName = "BAILÃO"
+    MVPSound = "MVP_bailao"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	[MVPSettings."ALEK MVP"."mvp.4"]
+    MVPName = "Orochi MITSUBISHI"
+    MVPSound = "MVP_bala_curva"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	[MVPSettings."ALEK MVP"."mvp.5"]
+    MVPName = "Boca de Pelo"
+    MVPSound = "MVP_boca_pelo"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	[MVPSettings."ALEK MVP"."mvp.6"]
+    MVPName = "Poze Vida Louca"
+    MVPSound = "MVP_dia_lindo"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	[MVPSettings."ALEK MVP"."mvp.7"]
+    MVPName = "Olha a Explosão"
+    MVPSound = "MVP_explosao"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	[MVPSettings."ALEK MVP"."mvp.8"]
+    MVPName = "PASSO BEM SOLTO"
+    MVPSound = "MVP_festas"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	[MVPSettings."ALEK MVP"."mvp.9"]
+    MVPName = "Forte de Lacoste"
+    MVPSound = "MVP_forte_lacoste"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	[MVPSettings."ALEK MVP"."mvp.10"]
+    MVPName = "Metralhadora"
+    MVPSound = "MVP_metralhadora"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	[MVPSettings."ALEK MVP"."mvp.11"]
+    MVPName = "Piui Tic Tac"
+    MVPSound = "MVP_piui_tictac"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	[MVPSettings."ALEK MVP"."mvp.12"]
+    MVPName = "MDS"
+    MVPSound = "MVP_roxo_piscina"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	[MVPSettings."ALEK MVP"."mvp.13"]
+    MVPName = "Sidoka sinto mal"
+    MVPSound = "MVP_sinto_mal"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	[MVPSettings."ALEK MVP"."mvp.14"]
+    MVPName = "Um Silva"
+    MVPSound = "MVP_um_silva"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	[MVPSettings."ALEK MVP"."mvp.15"]
+    MVPName = "UN GRR"
+    MVPSound = "MVP_un_grr"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	[MVPSettings."ALEK MVP"."mvp.16"]
+    MVPName = "Molodoy"
+    MVPSound = "MVP_molodoy"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	[MVPSettings."ALEK MVP"."mvp.17"]
+    MVPName = "KSCERATO"
+    MVPSound = "MVP_KSCERATO"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	[MVPSettings."ALEK MVP"."mvp.18"]
+    MVPName = "Mae Solteira"
+    MVPSound = "MVP_mae_solteira"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	[MVPSettings."ALEK MVP"."mvp.19"]
+    MVPName = "Na sua Casa"
+    MVPSound = "MVP_na_sua_casa"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	[MVPSettings."ALEK MVP"."mvp.20"]
+    MVPName = "John Cena"
+    MVPSound = "MVP_john_cena"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	[MVPSettings."ALEK MVP"."mvp.21"]
+    MVPName = "Ombrim"
+    MVPSound = "MVP_ombrim"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	[MVPSettings."ALEK MVP"."mvp.22"]
+    MVPName = "Vai sentar"
+    MVPSound = "MVP_vai_sentar"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	[MVPSettings."ALEK MVP"."mvp.23"]
+    MVPName = "Racionais"
+    MVPSound = "MVP_racionais"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	[MVPSettings."ALEK MVP"."mvp.24"]
+    MVPName = "Meno Tody"
+    MVPSound = "MVP_meno_tody"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	[MVPSettings."ALEK MVP"."mvp.25"]
+    MVPName = "CAPS 1"
+    MVPSound = "MVP_caps1"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	[MVPSettings."ALEK MVP"."mvp.26"]
+    MVPName = "CAPS 2"
+    MVPSound = "MVP_caps2"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	[MVPSettings."ALEK MVP"."mvp.27"]
+    MVPName = "Gol Quadrado"
+    MVPSound = "MVP_gol_quadrado"
+    EnablePreview = true
+    ShowChatMessage = true
+    ShowCenterMessage = false
+    ShowAlertMessage = false
+    ShowHtmlMessage = true
+    SteamID = ""
+    Flags = []
+	
+	
+    
